@@ -1,3 +1,7 @@
+# Ani buys pens (5.80), markers (7.20), cleaner/l (1.20), with discount %.
+# Input: pens, markers, liters, discount.
+# Output: final price.
+
 pkts_of_pens = int(input())
 pkts_of_markers = int(input())
 ltrs_of_cleaner = int(input())
