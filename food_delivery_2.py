@@ -1,3 +1,8 @@
+# Restaurant menus: chicken 10.35, fish 12.40, veg 8.15.
+# Dessert = 20% of total (before delivery). Delivery = 2.50.
+# Input: count chicken, fish, veg.
+# Output: final order price.
+
 chicken_menu = int(input())
 fish_menu = int(input())
 veggie_menu = int(input())
