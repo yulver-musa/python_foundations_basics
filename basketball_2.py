@@ -1,3 +1,7 @@
+# Jesse trains basketball. Input: yearly fee.
+# Shoes = 60% fee, outfit = 80% shoes, ball = 1/4 outfit, accessories = 1/5 ball.
+# Output: total cost.
+
 yearly_cost = int(input())
 
 shoes_cost = yearly_cost - (yearly_cost * 0.4)
