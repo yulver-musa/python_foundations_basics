@@ -1,3 +1,6 @@
+# Reads a speed and classifies it as slow,
+# average, fast, ultra fast, or extremely fast.
+
 speed = float(input())
 
 if speed <= 10:
