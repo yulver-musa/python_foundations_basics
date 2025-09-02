@@ -1,3 +1,6 @@
+# Reads a figure type and dimensions,
+# then prints its area (square, rectangle, circle, triangle).
+
 from math import pi
 
 figure = input()
