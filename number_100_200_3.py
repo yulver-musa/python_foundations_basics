@@ -1,3 +1,6 @@
+# Reads a number and prints if it is less than 100,
+# between 100 and 200, or greater than 200.
+
 number = int(input())
 
 if number < 100:
