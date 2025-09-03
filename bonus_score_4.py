@@ -1,3 +1,6 @@
+# Calculates bonus points based on a number
+# and prints the bonus and total score.
+
 number = int(input())
 bonus = 0
 
