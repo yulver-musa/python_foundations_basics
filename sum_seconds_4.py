@@ -1,3 +1,6 @@
+# Reads three times in seconds, sums them,
+# and prints the total as minutes:seconds.
+
 import math
 
 time_first = int(input())
