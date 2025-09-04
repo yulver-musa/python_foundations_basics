@@ -1,3 +1,6 @@
+# Calculates movie expenses (decor + costumes with discount)
+# and checks if the budget is enough.
+
 movie_budget = float(input())
 crew_member = int(input())
 costume_price = float(input())
