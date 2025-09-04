@@ -1,3 +1,6 @@
+# Calculates toy shop profit with discounts
+# and checks if it covers the vacation cost.
+
 vacation_cost = float(input())
 puzzles_count = int(input())
 dolls_count = int(input())
