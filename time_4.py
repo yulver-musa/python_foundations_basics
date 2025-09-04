@@ -1,3 +1,6 @@
+# Reads hours and minutes, adds 15 minutes,
+# and prints the new time in HH:MM format.
+
 hours = int(input())
 minutes = int(input())
 
