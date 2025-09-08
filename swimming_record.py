@@ -1,0 +1,16 @@
+import math
+record_seconds = float(input())
+distance_meters = float(input())
+seconds_per_meter = float(input())
+
+sub_seconds = distance_meters * seconds_per_meter
+part = distance_meters / 15
+extra = math.floor(part * 12.5)
+total_time = sub_seconds + extra
+
+diff = total_time - record_seconds
+
+if total_time < record_seconds:
+    print(f"Yes, he succeeded! The new world record is {total_time:.2f} seconds.")
+else:
+    print(f"No, he failed! He was {diff:.2f} seconds slower.")
