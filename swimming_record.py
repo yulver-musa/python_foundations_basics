@@ -4,8 +4,8 @@ distance_meters = float(input())
 seconds_per_meter = float(input())
 
 sub_seconds = distance_meters * seconds_per_meter
-part = distance_meters / 15
-extra = math.floor(part * 12.5)
+part = math.floor(distance_meters / 15)
+extra = part * 12.5
 total_time = sub_seconds + extra
 
 diff = total_time - record_seconds
