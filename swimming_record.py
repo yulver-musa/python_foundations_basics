@@ -1,3 +1,7 @@
+# Swimming record: given record time, distance, and time per meter.
+# Every 15m Ivan slows by 12.5s.
+# Calculate total time and check if he beats the record.
+
 import math
 record_seconds = float(input())
 distance_meters = float(input())
