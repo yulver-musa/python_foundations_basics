@@ -1,3 +1,6 @@
+# Calculates PC build cost (GPU, CPU, RAM with discount)
+# and checks if budget is enough.
+
 budget = float(input())
 gpu_count = int(input())
 cpu_count = int(input())
