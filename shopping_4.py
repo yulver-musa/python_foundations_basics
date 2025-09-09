@@ -20,6 +20,6 @@ if gpu_count > cpu_count:
 diff = abs(budget - sub_cost)
 
 if budget >= sub_cost:
-    print(f"You have {diff} leva left!")
+    print(f"You have {diff:.2f} leva left!")
 else:
-    print(f"Not enough money! You need {diff} leva more!")
+    print(f"Not enough money! You need {diff:.2f} leva more!")
