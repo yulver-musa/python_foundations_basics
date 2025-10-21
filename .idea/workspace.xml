@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34fabfc-0955-43ba-b85a-28423284f499" name="Changes" comment="Added new file" />
+    <list default="true" id="b34fabfc-0955-43ba-b85a-28423284f499" name="Changes" comment="Updated file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_day_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/working_day_or_not.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/PythonProjects/python_foundations_basics"
+    "last_opened_file_path": "C:/PythonProjects/python_foundations_basics/scripts"
   }
 }]]></component>
   <component name="RunManager">
@@ -72,12 +75,93 @@
       <option name="project" value="LOCAL" />
       <updated>1756148813171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1761070323586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761070323586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761070772385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761070772385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761070932591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761070932591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761071236278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761071236278</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761071525697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761071525697</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1761071906703</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761071906703</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761072038269</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761072038269</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761072309191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761072309191</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761072325134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761072325134</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761072339340</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761072339340</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new file" />
+    <MESSAGE value="Updated file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -86,6 +170,11 @@
           <url>file://$PROJECT_DIR$/main_0_1.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lunch_break.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
