@@ -11,4 +11,4 @@ difference = abs(break_duration - free_time)
 if break_duration >= free_time:
     print(f"You have enough time to watch {tv_show} and left with {difference} minutes free time.")
 else:
-    print()
+    print(f"You don't have enough time to watch {tv_show}, you need {difference} more minutes.")
