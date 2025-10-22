@@ -5,3 +5,4 @@ if animal == "dog":
 elif animal == "crocodile" or animal == "snake" or animal == "tortoise":
     print("reptile")
 else:
+    print("unknown")
