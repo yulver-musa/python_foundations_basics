@@ -9,4 +9,5 @@ if gender == "m":
 else:
     if age >= 16:
         print("Ms.")
-    else
+    else:
+        print("Miss")
