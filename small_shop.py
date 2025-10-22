@@ -1,1 +1,2 @@
 item = input()
+city = input()
