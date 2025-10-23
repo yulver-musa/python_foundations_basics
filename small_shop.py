@@ -37,3 +37,5 @@ elif city == "Varna":
     elif item == "peanuts":
         price = 1.55
 
+total = qty * price
+
