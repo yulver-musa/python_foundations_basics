@@ -32,3 +32,8 @@ elif city == "Varna":
         price = 0.7
     elif item == "beer":
         price = 1.1
+    elif item == "sweets":
+        price = 1.35
+    elif item == "peanuts":
+        price = 1.55
+
