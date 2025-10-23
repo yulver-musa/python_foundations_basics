@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34fabfc-0955-43ba-b85a-28423284f499" name="Changes" comment="Updated file">
-      <change beforePath="$PROJECT_DIR$/small_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/small_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_range.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761247004317</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Updated file">
+      <option name="closed" value="true" />
+      <created>1761247078791</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1761247078791</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
