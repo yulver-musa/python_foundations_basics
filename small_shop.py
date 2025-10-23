@@ -39,3 +39,4 @@ elif city == "Varna":
 
 total = qty * price
 
+print(total)
