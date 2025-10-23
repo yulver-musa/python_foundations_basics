@@ -26,4 +26,9 @@ elif city == "Plovdiv":
     elif item == "peanuts":
         price = 1.5
 elif city == "Varna":
-    print("null")
+    if item == "coffee":
+        price = 0.45
+    elif item == "water":
+        price = 0.7
+    elif item == "beer":
+        price = 1.1
