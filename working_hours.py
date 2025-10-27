@@ -5,3 +5,4 @@ if 10 > hour > 18:
     if day == "Sunday":
         print("closed")
 else:
+    print("open")
