@@ -7,4 +7,4 @@ if day == "Monday" or day == "Tuesday" or day == "Friday":
 elif day == "Wednesday" or day == "Thursday":
     price = 14
     print(price)
-elif day == "Friday" or
+elif day == "Saturday" or day == "Sunday":
