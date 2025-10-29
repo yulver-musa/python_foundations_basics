@@ -9,3 +9,4 @@ elif day == "Wednesday" or day == "Thursday":
     print(price)
 elif day == "Saturday" or day == "Sunday":
     price = 16
+    print(price)
