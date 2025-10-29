@@ -1,8 +1,7 @@
 hour = int(input())
 day = input()
 
-if 10 <= hour <= 18 and day == "Monday" or day == "Tuesday" or day == "Wednesday" \
-        or day == "Thursday" or day == "Friday" or day == "Saturday":
+if day != "Sunday" and 10 <= hour <= 18:
     print("open")
 else:
     print("closed")
