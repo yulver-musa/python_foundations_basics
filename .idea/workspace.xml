@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34fabfc-0955-43ba-b85a-28423284f499" name="Changes" comment="Updating file." />
+    <list default="true" id="b34fabfc-0955-43ba-b85a-28423284f499" name="Changes" comment="Updating file.">
+      <change beforePath="$PROJECT_DIR$/cinema_ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/cinema_ticket.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,46 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756148713119</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Added new file">
-      <option name="closed" value="true" />
-      <created>1756148813171</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1756148813171</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added new file">
-      <option name="closed" value="true" />
-      <created>1761070323586</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1761070323586</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Updated file">
-      <option name="closed" value="true" />
-      <created>1761070772385</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1761070772385</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Updated file">
-      <option name="closed" value="true" />
-      <created>1761070932591</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1761070932591</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Updated file">
-      <option name="closed" value="true" />
-      <created>1761071236278</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1761071236278</updated>
     </task>
     <task id="LOCAL-00006" summary="Updated file">
       <option name="closed" value="true" />
@@ -448,7 +410,55 @@
       <option name="project" value="LOCAL" />
       <updated>1761758827499</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759123779</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759123779</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759139333</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759139334</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759250990</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759250990</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759292179</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759292179</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759323959</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759323959</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Updating file.">
+      <option name="closed" value="true" />
+      <created>1761759345998</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1761759345998</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
