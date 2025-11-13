@@ -1,8 +1,9 @@
 fruit = input()
 day = input()
-qty = int(input())
+qty = float(input())
 
 price = 0
+valid = True
 
 if day == "Monday" or day == "Tuesday" or day == "Wednesday" or day == "Thursday" or day == "Friday":
     if fruit == "banana":
@@ -22,3 +23,33 @@ if day == "Monday" or day == "Tuesday" or day == "Wednesday" or day == "Thursday
     else:
         print("error")
 
+        valid = False
+
+elif day == "Saturday" or day == "Sunday":
+    if fruit == "banana":
+        price = 2.70
+    elif fruit == "apple":
+        price = 1.25
+    elif fruit == "orange":
+        price = 0.90
+    elif fruit == "grapefruit":
+        price = 1.60
+    elif fruit == "kiwi":
+        price = 3.00
+    elif fruit == "pineapple":
+        price = 5.60
+    elif fruit == "grapes":
+        price = 4.20
+    else:
+        print("error")
+
+        valid = False
+
+else:
+    print("error")
+    valid = False
+
+if valid:
+    total = qty * price
+
+    print(f"{total:.2f}")
